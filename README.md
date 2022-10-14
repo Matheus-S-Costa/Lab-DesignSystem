@@ -20,3 +20,6 @@ O projeto foi desenvolvido do figma ao código, sendo abordados conceitos de web
 
 ## Contatos
 matheusilva334@gmail.com
+
+Comandos:
+> npm run dev
